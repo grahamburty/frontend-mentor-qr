@@ -62,5 +62,5 @@ More css grid and flexbox. Powerful layout tools but tricky to master.
 
 - Website - [grahamburt.net](https://grahamburt.net/)
 - Frontend Mentor - [@grahamburty](https://www.frontendmentor.io/profile/grahamburty)
-- Twitter - [@yourusername](https://www.twitter.com/burty_burty)
+- Twitter - [@burty_burty](https://www.twitter.com/burty_burty)
 
