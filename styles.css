@@ -1,16 +1,19 @@
 * {
   font-family: "Outfit", sans-serif;
   background-color: hsl(212, 45%, 89%);
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
   width: 100%;
   min-height: 100vh;
   display: grid;
+  place-content: center;
 }
 
 .first-row {
-  place-self: center;
   padding: 20px;
 }
 
@@ -24,9 +27,9 @@
 }
 
 .card {
-  width: 275px;
+  width: 300px;
   background-color: hsl(0, 0%, 100%);
-  padding: 15px 15px 40px 15px;
+  padding: 20px 20px 40px 20px;
   border-radius: 20px;
   box-shadow: 2px 10px 30px rgba(0, 0, 0, 0.1);
 }
@@ -39,17 +42,17 @@ img {
   border-radius: 10px;
 }
 
-h4 {
-  font-size: 22px;
+h1 {
+  padding-top: 5px;
+  font-size: 1.3rem;
   font-weight: 700;
   text-align: center;
   background-color: hsl(0, 0%, 100%);
 }
 
 p {
-  margin-top: -14px;
-  margin-bottom: 0;
-  font-size: 15px;
+  padding-top: 10px;
+  font-size: 1rem;
   font-weight: 400;
   text-align: center;
   padding-left: 5px;
